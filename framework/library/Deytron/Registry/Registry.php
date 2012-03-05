@@ -26,6 +26,7 @@
  * @package Core
  * @link http://diwms.com/
  * @version 0.3
+ ТЫ ОХУЕЛ??? Стока папок?? убейся ап стену??!!
  */
 
 namespace Deytron;
